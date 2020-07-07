@@ -1,0 +1,24 @@
+/* panda commerce */
+
+.container{
+    margin-bottom: 80px;
+}
+.orange-bg{
+    background-color: #fceae8;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+}
+
+.price{
+    color: #ff136f;
+}
+
+.buy-now-button{
+    background-color: rgb(235, 104, 130);
+    color: white;
+    padding: 3px 7px;
+    border: rgb(235, 104, 130);
+    border-radius: 2px;
+    }
